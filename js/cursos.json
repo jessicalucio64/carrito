@@ -1,0 +1,88 @@
+{
+    "cursos":[
+        {
+            "titulo": "HTML5, CSS3, JavaScript para Principiantes",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso1.jpg",
+            "precio": 25,
+            "id": 1
+        },
+        {
+            "titulo": "Curso de Comida Vegetariana",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso2.jpg",
+            "precio": 20,
+            "id": 2
+        },
+        {
+            "titulo": "Guitarra para Principiantes",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso3.jpg",
+            "precio": 10,
+            "id": 3
+        },
+        {
+            "titulo": "Huerto en tu casa",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso4.jpg",
+            "precio": 40,
+            "id": 4
+        },
+        {
+            "titulo": "Diseño Web para Principiantes",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso5.jpg",
+            "precio": 75,
+            "id": 5
+        },
+        {
+            "titulo": "Comida Mexicana para principiantes",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso1.jpg",
+            "precio": 20,
+            "id": 6
+        },
+        {
+            "titulo": "Estudio Musical en tu casa",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso2.jpg",
+            "precio": 20,
+            "id": 7
+        },
+        {
+            "titulo": "Estudio Musical en tu casa",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso3.jpg",
+            "precio": 15,
+            "id": 8
+        },
+        {
+            "titulo": "Cosecha tus propias frutas y verduras",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso4.jpg",
+            "precio": 15,
+            "id": 9
+        },
+        {
+            "titulo": "Prepara galletas caseras",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso5.jpg",
+            "precio": 80,
+            "id": 10
+        },
+        {
+            "titulo": "JavaScript Moderno con ES6",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso1.jpg",
+            "precio": 20,
+            "id": 11
+        },
+        {
+            "titulo": "Recetas de Comida Natural",
+            "autor": "Juan Pedro",
+            "imagen": "img/curso2.jpg",
+            "precio": 20,
+            "id": 12
+        }
+    ]
+}
