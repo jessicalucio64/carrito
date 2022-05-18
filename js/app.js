@@ -199,9 +199,10 @@ function renderUsers(newCursos) {
 }
 
 // Eliminar los cursos del body
+
 function LimpiarHtmlbody() {
     // Forma lenta
-    /*contenedorCarrito.innerHTML = '';*/
+    //contenedorCarrito.innerHTML = '';
 
     // Forma rapida y sencilla
     while (columnas.firstChild) {
